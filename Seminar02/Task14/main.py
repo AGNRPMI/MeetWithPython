@@ -22,7 +22,7 @@ def WorkingProcess():
             print(" ")
             _isOpen = True                
         elif choice == 'n':
-            print("завершение программы...")
+            print("завершение программы... Нажмите Enter")
             print(" ")
             _isOpen = False                
         else: 
